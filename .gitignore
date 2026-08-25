@@ -1,0 +1,9 @@
+.venv/
+.env
+token.json
+credentials.json
+__pycache__/
+*.pyc
+credentials.json
+youtube_token.json
+.env
