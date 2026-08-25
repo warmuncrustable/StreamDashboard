@@ -6,8 +6,6 @@ Built with Python, PySide6, PyQtGraph, Twitch EventSub, and the YouTube Data API
 
 ## Table of Contents
 
-## Table of Contents
-
 - [Why I Made This](#why-i-made-this)
 - [Features](#features)
 - [Screenshots](#screenshots)
