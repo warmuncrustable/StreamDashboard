@@ -6,20 +6,19 @@ Built with Python, PySide6, PyQtGraph, Twitch EventSub, and the YouTube Data API
 
 ## Table of Contents
 
+## Table of Contents
+
 - [Why I Made This](#why-i-made-this)
 - [Features](#features)
-- [Twitch](#twitch)
-- [YouTube](#youtube)
-- [Analytics](#analytics)
 - [Screenshots](#screenshots)
 - [Technology](#technology)
 - [How It Works](#how-it-works)
 - [Installation](#installation)
 - [Setup](#setup)
 - [Security](#security)
-- [Project Status](#project-status)
 - [License](#license)
 - [Disclaimer](#disclaimer)
+
 
 ## Why I Made This
 
