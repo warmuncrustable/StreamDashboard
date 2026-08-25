@@ -2,7 +2,7 @@
 
 A desktop dashboard for monitoring **Twitch and YouTube livestreams simultaneously**.
 
-Built with Python, PySide6, PyQtGraph, Twitch EventSub, and the YouTube Data API.
+Built with Python, PySide6, PyQtGraph, Twitch EventSub, and the YouTube Data API and built for Linux, could work on other operating systems but I think it could need tweaking to do so
 
 ## Table of Contents
 
