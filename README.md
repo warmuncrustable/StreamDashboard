@@ -178,3 +178,17 @@ The following files contain sensitive information and should never be uploaded t
 .env
 credentials.json
 youtube_token.json
+```
+## License
+
+This project is licensed under the **GNU General Public License v3.0**.
+
+See the LICENSE file for the full license text.
+
+GPLv3 allows you to use, modify, and redistribute this software while requiring distributed derivative versions to remain under compatible copyleft terms.
+
+## Disclamer!!
+
+This project is not affiliated with or endorsed by Twitch, YouTube, Google, or any other platform or service mentioned in this repository.
+
+You are responsible for complying with the respective platform's API terms and developer policies when using this software.
