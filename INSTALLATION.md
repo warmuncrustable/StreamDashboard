@@ -7,6 +7,7 @@ For Twitch and YouTube configuration, OAuth setup, API configuration, and troubl
 ## Table of Contents
 
 - [Requirements](#requirements)
+- [Releases]_(#releases)
 - [Linux](#linux)
   - [Clone the Repository](#clone-the-repository)
   - [Create a Virtual Environment](#create-a-virtual-environment)
@@ -37,6 +38,20 @@ You need:
 - An internet connection
 
 The application runs locally on your computer.
+
+# Releases
+
+If you don't need the latest development changes, the easiest way to install Stream Dashboard is to download a precompiled release.
+
+Precompiled binaries are available from the project's GitHub Releases page.
+
+Download the appropriate package for your operating system and architecture, extract it if necessary, and run the application.
+
+> Release builds do not require Python or the project's Python dependencies to be installed separately.
+
+For the latest features and fixes that have not yet been released, manually install the application for your system via the instructions below 
+
+**These binaries are only compiled for Windows and Linux, do not complain about the binaries not working on your system if you are not using windows or linux, i gave manual install instructions for a reason**
 
 # Linux
 
